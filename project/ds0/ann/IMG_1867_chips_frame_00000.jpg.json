@@ -7,13 +7,13 @@
     },
     "objects": [
         {
-            "id": 6629635,
-            "classId": 19978,
+            "id": 7680533,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:07.958Z",
-            "updatedAt": "2021-02-12T10:08:10.918Z",
+            "updatedAt": "2021-03-22T12:07:42.614Z",
             "tags": [],
             "classTitle": "product",
             "points": {
@@ -23,21 +23,21 @@
                         428
                     ],
                     [
-                        359,
-                        642
+                        357,
+                        633
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6629636,
-            "classId": 19978,
+            "id": 7680532,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:09.827Z",
-            "updatedAt": "2021-02-12T10:08:10.918Z",
+            "updatedAt": "2021-03-22T11:35:15.841Z",
             "tags": [],
             "classTitle": "product",
             "points": {
@@ -55,44 +55,44 @@
             }
         },
         {
-            "id": 6629637,
-            "classId": 19978,
+            "id": 7680531,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:12.017Z",
-            "updatedAt": "2021-02-12T10:08:10.918Z",
+            "updatedAt": "2021-03-22T12:07:38.036Z",
             "tags": [],
             "classTitle": "product",
             "points": {
                 "exterior": [
                     [
-                        80,
+                        96,
                         430
                     ],
                     [
-                        219,
-                        614
+                        217,
+                        600
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6629639,
-            "classId": 19978,
+            "id": 7680530,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:20.454Z",
-            "updatedAt": "2021-03-22T10:19:41.805Z",
+            "updatedAt": "2021-03-22T12:07:59.953Z",
             "tags": [],
             "classTitle": "product",
             "points": {
                 "exterior": [
                     [
-                        970,
-                        419
+                        932,
+                        435
                     ],
                     [
                         1079,
@@ -103,20 +103,20 @@
             }
         },
         {
-            "id": 6629638,
-            "classId": 19978,
+            "id": 7680529,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:16.295Z",
-            "updatedAt": "2021-02-12T10:08:10.918Z",
+            "updatedAt": "2021-03-22T12:07:49.965Z",
             "tags": [],
             "classTitle": "product",
             "points": {
                 "exterior": [
                     [
-                        761,
-                        411
+                        724,
+                        426
                     ],
                     [
                         874,
@@ -127,13 +127,13 @@
             }
         },
         {
-            "id": 6629641,
-            "classId": 19978,
+            "id": 7680528,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:28.983Z",
-            "updatedAt": "2021-03-22T10:19:29.101Z",
+            "updatedAt": "2021-03-22T11:35:15.841Z",
             "tags": [],
             "classTitle": "product",
             "points": {
@@ -151,13 +151,13 @@
             }
         },
         {
-            "id": 6629640,
-            "classId": 19978,
+            "id": 7680527,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:26.472Z",
-            "updatedAt": "2021-02-12T10:08:10.918Z",
+            "updatedAt": "2021-03-22T11:35:15.841Z",
             "tags": [],
             "classTitle": "product",
             "points": {
@@ -175,19 +175,19 @@
             }
         },
         {
-            "id": 6629642,
-            "classId": 19978,
+            "id": 7680526,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:31.470Z",
-            "updatedAt": "2021-03-22T10:19:36.173Z",
+            "updatedAt": "2021-03-22T12:08:05.359Z",
             "tags": [],
             "classTitle": "product",
             "points": {
                 "exterior": [
                     [
-                        759,
+                        725,
                         693
                     ],
                     [
@@ -199,13 +199,13 @@
             }
         },
         {
-            "id": 6629643,
-            "classId": 19978,
+            "id": 7680525,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:33.589Z",
-            "updatedAt": "2021-03-22T10:19:47.137Z",
+            "updatedAt": "2021-03-22T12:08:10.435Z",
             "tags": [],
             "classTitle": "product",
             "points": {
@@ -215,21 +215,21 @@
                         688
                     ],
                     [
-                        998,
-                        882
+                        1005,
+                        857
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6629644,
-            "classId": 19978,
+            "id": 7680524,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:37.275Z",
-            "updatedAt": "2021-03-22T10:19:52.539Z",
+            "updatedAt": "2021-03-22T12:08:13.912Z",
             "tags": [],
             "classTitle": "product",
             "points": {
@@ -239,21 +239,21 @@
                         913
                     ],
                     [
-                        975,
-                        1090
+                        991,
+                        1065
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6629645,
-            "classId": 19978,
+            "id": 7680523,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:40.167Z",
-            "updatedAt": "2021-03-22T10:19:56.039Z",
+            "updatedAt": "2021-03-22T12:08:16.452Z",
             "tags": [],
             "classTitle": "product",
             "points": {
@@ -263,21 +263,21 @@
                         923
                     ],
                     [
-                        864,
-                        1088
+                        869,
+                        1081
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6629646,
-            "classId": 19978,
+            "id": 7680522,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:42.395Z",
-            "updatedAt": "2021-02-12T10:08:10.918Z",
+            "updatedAt": "2021-03-22T12:08:49.004Z",
             "tags": [],
             "classTitle": "product",
             "points": {
@@ -287,21 +287,21 @@
                         946
                     ],
                     [
-                        489,
-                        1100
+                        491,
+                        1093
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6629647,
-            "classId": 19978,
+            "id": 7680521,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:44.308Z",
-            "updatedAt": "2021-02-12T10:08:10.918Z",
+            "updatedAt": "2021-03-22T11:35:15.841Z",
             "tags": [],
             "classTitle": "product",
             "points": {
@@ -319,13 +319,13 @@
             }
         },
         {
-            "id": 6629648,
-            "classId": 19978,
+            "id": 7680520,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:46.355Z",
-            "updatedAt": "2021-02-12T10:08:10.918Z",
+            "updatedAt": "2021-03-22T11:35:15.841Z",
             "tags": [],
             "classTitle": "product",
             "points": {
@@ -343,61 +343,61 @@
             }
         },
         {
-            "id": 6629649,
-            "classId": 19978,
+            "id": 7680519,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:51.197Z",
-            "updatedAt": "2021-02-12T10:08:10.918Z",
+            "updatedAt": "2021-03-22T12:08:39.054Z",
             "tags": [],
             "classTitle": "product",
             "points": {
                 "exterior": [
                     [
-                        377,
-                        1154
+                        379,
+                        1149
                     ],
                     [
-                        505,
-                        1308
+                        503,
+                        1297
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6629650,
-            "classId": 19978,
+            "id": 7680518,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:54.587Z",
-            "updatedAt": "2021-02-12T10:08:10.918Z",
+            "updatedAt": "2021-03-22T12:08:43.031Z",
             "tags": [],
             "classTitle": "product",
             "points": {
                 "exterior": [
                     [
                         262,
-                        1152
+                        1157
                     ],
                     [
                         390,
-                        1321
+                        1310
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6629651,
-            "classId": 19978,
+            "id": 7680517,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:56.959Z",
-            "updatedAt": "2021-02-12T10:08:10.918Z",
+            "updatedAt": "2021-03-22T11:35:15.841Z",
             "tags": [],
             "classTitle": "product",
             "points": {
@@ -415,13 +415,13 @@
             }
         },
         {
-            "id": 6629652,
-            "classId": 19978,
+            "id": 7680516,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:07:59.483Z",
-            "updatedAt": "2021-03-22T10:20:10.196Z",
+            "updatedAt": "2021-03-22T12:08:36.201Z",
             "tags": [],
             "classTitle": "product",
             "points": {
@@ -431,100 +431,100 @@
                         1356
                     ],
                     [
-                        526,
-                        1504
+                        528,
+                        1497
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6629653,
-            "classId": 19978,
+            "id": 7680515,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:08:02.097Z",
-            "updatedAt": "2021-02-12T10:08:10.918Z",
+            "updatedAt": "2021-03-22T12:08:23.611Z",
             "tags": [],
             "classTitle": "product",
             "points": {
                 "exterior": [
                     [
-                        711,
-                        1311
+                        713,
+                        1329
                     ],
                     [
-                        804,
-                        1498
+                        818,
+                        1473
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6629654,
-            "classId": 19978,
+            "id": 7680514,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:08:03.573Z",
-            "updatedAt": "2021-03-22T10:19:59.084Z",
+            "updatedAt": "2021-03-22T12:08:27.896Z",
             "tags": [],
             "classTitle": "product",
             "points": {
                 "exterior": [
                     [
-                        804,
-                        1292
+                        802,
+                        1310
                     ],
                     [
-                        922,
-                        1463
+                        890,
+                        1458
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6629655,
-            "classId": 19978,
+            "id": 7680513,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:08:05.011Z",
-            "updatedAt": "2021-03-22T10:20:01.664Z",
+            "updatedAt": "2021-03-22T12:08:32.859Z",
             "tags": [],
             "classTitle": "product",
             "points": {
                 "exterior": [
                     [
-                        868,
-                        1288
+                        870,
+                        1299
                     ],
                     [
-                        1025,
-                        1457
+                        1002,
+                        1441
                     ]
                 ],
                 "interior": []
             }
         },
         {
-            "id": 6629656,
-            "classId": 19978,
+            "id": 7680512,
+            "classId": 22954,
             "description": "",
             "geometryType": "rectangle",
             "labelerLogin": "anna",
             "createdAt": "2021-02-12T10:08:10.822Z",
-            "updatedAt": "2021-02-12T10:08:10.822Z",
+            "updatedAt": "2021-03-22T12:08:53.382Z",
             "tags": [],
             "classTitle": "product",
             "points": {
                 "exterior": [
                     [
                         390,
-                        1554
+                        1561
                     ],
                     [
                         536,
