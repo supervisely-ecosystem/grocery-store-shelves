@@ -1,0 +1,14 @@
+{
+    "classes": [
+        {
+            "title": "product",
+            "shape": "rectangle",
+            "color": "#73DB61",
+            "geometry_config": {},
+            "id": 19978,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}

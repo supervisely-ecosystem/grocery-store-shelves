@@ -1,0 +1,82 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1920,
+        "width": 1080
+    },
+    "objects": [
+        {
+            "id": 6629705,
+            "classId": 19978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "anna",
+            "createdAt": "2021-02-12T10:17:08.576Z",
+            "updatedAt": "2021-02-12T10:17:18.842Z",
+            "tags": [],
+            "classTitle": "product",
+            "points": {
+                "exterior": [
+                    [
+                        719,
+                        606
+                    ],
+                    [
+                        961,
+                        911
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6629706,
+            "classId": 19978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "anna",
+            "createdAt": "2021-02-12T10:17:12.559Z",
+            "updatedAt": "2021-02-12T10:17:18.842Z",
+            "tags": [],
+            "classTitle": "product",
+            "points": {
+                "exterior": [
+                    [
+                        497,
+                        523
+                    ],
+                    [
+                        681,
+                        804
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 6629707,
+            "classId": 19978,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "anna",
+            "createdAt": "2021-02-12T10:17:18.753Z",
+            "updatedAt": "2021-02-12T10:17:18.753Z",
+            "tags": [],
+            "classTitle": "product",
+            "points": {
+                "exterior": [
+                    [
+                        0,
+                        618
+                    ],
+                    [
+                        311,
+                        933
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}
