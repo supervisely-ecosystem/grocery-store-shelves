@@ -1,9 +1,10 @@
 {
-  "name": "Snacks Example",
-  "description": "Labeled images of products on the shelve: snacks: chips / crisps / mix",
+  "name": "Grocery store shelves",
+  "description": "Labeled images of products on the shelve: snacks, chips, crisps",
   "type": "project",
   "categories": [
-    "images"
+    "images",
+    "retail"
   ],
   "icon": "https://img.icons8.com/color/100/000000/grocery-shelf.png",
   "icon_background": "#FFFFFF"
