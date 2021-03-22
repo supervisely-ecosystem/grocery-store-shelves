@@ -1,7 +1,7 @@
 <div align="center" markdown>
 <img src="https://i.imgur.com/UdBujFN.png" width="250"/>
 
-# Snacks Example
+# Grocery Store Shelves
 
 <p align="center">
   <a href="#overview">Overview</a> •
@@ -10,9 +10,9 @@
 </p>
 
 [![](https://img.shields.io/badge/slack-chat-green.svg?logo=slack)](https://supervise.ly/slack) 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/snacks-example)
-[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/snacks-example&counter=views&label=views)](https://supervise.ly)
-[![downloads](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/snacks-example&counter=downloads&label=downloads)](https://supervise.ly)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/supervisely-ecosystem/grocery-store-shelves)
+[![views](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/grocery-store-shelves&counter=views&label=views)](https://supervise.ly)
+[![downloads](https://app.supervise.ly/public/api/v3/ecosystem.counters?repo=supervisely-ecosystem/grocery-store-shelves&counter=downloads&label=downloads)](https://supervise.ly)
 
 </div>
 
