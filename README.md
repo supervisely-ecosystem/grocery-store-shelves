@@ -1,5 +1,5 @@
 <div align="center" markdown>
-<img src="https://i.imgur.com/UdBujFN.png" width="250"/>
+<img src="https://i.imgur.com/RqqLpLr.png"/>
 
 # Grocery Store Shelves
 
@@ -17,25 +17,25 @@
 </div>
 
 
+
 ## Overview 
 
-<img src="x"/>
-
-Demo project with photos of products of the shelves of a supermarket.  
-
-Can be used as demo for:
-- apps in Supervisely Ecosystem for retail industry
-
+Demo project with photos of grocery store shelves with snacks. Can be used for testing retail applications: manual products labeling, products detection, classification using catalogs, AI assisted classification and so on.
 
 
 ## Data Statistics
 
-- The project features 924 total instances of 83 labeled products
-- There are 37 images in a single dataset, 
-- Each image contains from 3 to 55 labeled instances of the `product` class
+- Project consists of 37 images of grocery shelves
+- All products ad labeled with rectangles (bounding boxes) of class `product`
+
+<img src="https://i.imgur.com/65ltdEv.png"/>
+
+<img src="https://i.imgur.com/TrlbKwu.png"/>
+
 
 ## Examples
 
-<img src="x"/>
+<img src="https://media3.giphy.com/media/TFyQJUyeMzvSQ8lJVD/giphy.gif"/>
+
 
   
