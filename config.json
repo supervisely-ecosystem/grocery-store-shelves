@@ -3,7 +3,9 @@
   "description": "Labeled images of products on the shelve: snacks, chips, crisps",
   "type": "project",
   "categories": [
+    "import",
     "images",
+    "project",
     "retail"
   ],
   "icon": "https://img.icons8.com/color/100/000000/grocery-shelf.png",
