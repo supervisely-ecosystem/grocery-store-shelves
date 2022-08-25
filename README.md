@@ -1,5 +1,5 @@
 <div align="center" markdown>
-<img src="https://i.imgur.com/RqqLpLr.png"/>
+<img src="https://user-images.githubusercontent.com/106374579/186661027-142d0dce-8209-4b3d-841a-c976f83a19a0.png"/>
 
 # Grocery Store Shelves
 
