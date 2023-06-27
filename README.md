@@ -28,14 +28,14 @@ Demo project with photos of grocery store shelves with snacks. Can be used for t
 - Project consists of 37 images of grocery shelves
 - All products ad labeled with rectangles (bounding boxes) of class `product`
 
-<img src="https://i.imgur.com/65ltdEv.png"/>
+<img src="media/d1.png"/>
 
-<img src="https://i.imgur.com/TrlbKwu.png"/>
+<img src="media/d2.png"/>
 
 
 ## Examples
 
-<img src="https://media3.giphy.com/media/TFyQJUyeMzvSQ8lJVD/giphy.gif"/>
+<img src="media/e1.gif"/>
 
 
   
